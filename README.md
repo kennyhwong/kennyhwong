@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a graduate of UCLA with master degrees in Architecture and Urban & Regional Planning. I currently work at cityLAB in the Department of Architecture and Urban Design. You can find my personal website at [kenny-wong.com](https://kenny-wong.com/).
+I'm a graduate of UCLA with master degrees in Architecture and Urban & Regional Planning. I currently work at cityLAB in the Department of Architecture and Urban Design. You can find my personal website at **[kenny-wong.com]**(https://kenny-wong.com/).
 
 <!--
 **kennyhwong/kennyhwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
